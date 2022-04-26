@@ -1,4 +1,4 @@
-# Day 22: Christina Michelaitsch
+# Day 22: IXM
 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/slicing-day-22)
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/slicing-day-22)
